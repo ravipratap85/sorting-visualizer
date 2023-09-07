@@ -2,7 +2,7 @@
 A web-based sorting algorithm visualizer that allows users to see various sorting algorithms in action.
 
 
-# live website link # https://ravipratap85.github.io/sorting-visualizer/
+** live website link**  https://ravipratap85.github.io/sorting-visualizer/
 
 
 
